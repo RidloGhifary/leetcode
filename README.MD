@@ -10,6 +10,7 @@
     <li>4 medium</li>
     </ul>
   </li>
+  <li>agar mudah dibaca ubah url menjadi .dev contoh : <i>https://github.com/RidloGhifary/leetcode</i> -> <i>https://github.dev/RidloGhifary/leetcode</i></li>
   <li>link soal ada dipaling atas file</li>
   <li>code solusi ada dipaling bawah</li>
   <li>seluruh function sudah sesuai dengan yg ada disoal jadi lebih baik tidak menggantinya kecuali mau mengganti block code</li>
